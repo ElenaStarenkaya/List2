@@ -1,0 +1,95 @@
+/* body {
+    font-family: sans-serif;
+    background-color: lightgoldenrodyellow;
+    /* background-image: url(img/bg2.jpg); */
+    /* background-repeat: repeat; */
+
+/* } */
+
+/* dd {
+    display: block;
+    /* делаем отступы для пояснений */
+    /* margin-top: 10px;
+    margin-bottom: 10px;
+} */ */
+
+/* dt {
+    font-weight: bold;
+    color: forestgreen;
+}
+
+ul {
+    list-style-position: inside;
+    list-style: none;
+}
+
+ul li::before{
+    content: "\274B";
+} */
+
+
+/* .summer a:visited, .autumn a:visited, .winter a:visited, .spring a:visited{
+color: olivedrab;
+}
+
+.summer a:hover, .autumn a:hover, .winter a:hover, .spring a:hover {
+    /* list-style-image: url("img/summer.png"); */
+/* color: maroon;
+cursor: pointer;
+} */ */
+
+/* .summer a:focus, .autumn a:focus, .winter a:focus, .spring a:focus{
+    color: mediumvioletred; */
+/* }  */
+
+/* работа с картинкой */
+/* img {
+    width: 20%;
+} */
+
+/* blockquote{
+    background-image: url(img/bg.jpg);
+    background-repeat: repeat-y; 
+    margin-left: 0;
+    padding-left: 60px; 
+}  */
+
+/* .wrap{
+    background-image: url(img/bg2.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+background-attachment: scroll;
+}  */
+
+/* img {
+    width: 30%;
+}
+
+.pic1 {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+.pic2 {
+    position: absolute;
+    right: 50px;
+    bottom: 50px;
+}
+
+.pic3 {
+    position: relative;
+    margin: auto;
+    }
+
+    .flb {
+        display: flex;
+        background-color: olivedrab;
+        height: 100vh;
+    } */
+
+    .kv {
+        width: 10vw;
+        height: 10vw;
+        background-color: tomato;
+    }
